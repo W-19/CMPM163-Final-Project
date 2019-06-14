@@ -7,6 +7,9 @@ There is no user interaction; simply press play and enjoy the work the team put 
 -Simon Katzer: Line, particle system, some audio work, provided the starter code for colorful cellular automata
 -Kameron Fincher: Cellular automata mechanics, including spawning cells in response to the music
 
+The link to our Week 10 Google Slides presentation is here:
+https://docs.google.com/presentation/d/1pyucvOSEPpyrM4hnMhnTrDyHrwPfey8ji-GEZf9OI-c/edit?usp=drivesdk
+
 The link to our SIGGRAPH-style document is here:
 https://docs.google.com/document/d/19r1qkNledA7FedJu8UxS-VFb-kYgU4AjH5loBbQCbgQ/edit?usp=sharing
 
