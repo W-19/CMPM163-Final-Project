@@ -16,4 +16,4 @@ https://docs.google.com/document/d/19r1qkNledA7FedJu8UxS-VFb-kYgU4AjH5loBbQCbgQ/
 The link to our short demonstration video is here:
 https://streamable.com/bbzke
 
-There's a Mac executable in the project.
+There's a Mac executable in the project (Assets/Mac Executable/Audio Visualizer Scene.zip).
