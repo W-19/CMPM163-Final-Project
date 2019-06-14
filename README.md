@@ -12,6 +12,7 @@ https://docs.google.com/presentation/d/1pyucvOSEPpyrM4hnMhnTrDyHrwPfey8ji-GEZf9O
 
 The link to our SIGGRAPH-style document is here:
 https://docs.google.com/document/d/19r1qkNledA7FedJu8UxS-VFb-kYgU4AjH5loBbQCbgQ/edit?usp=sharing
+If you're looking for images there are a couple in this document.
 
 The link to our short demonstration video is here:
 https://streamable.com/bbzke
